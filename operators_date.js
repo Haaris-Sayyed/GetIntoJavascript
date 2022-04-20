@@ -31,9 +31,10 @@ console.log(x++);
 console.log(x--);
 
 // Ternary Operator
-number > 0
-  ? console.log(`${number} is a positive number`)
-  : console.log(`${number} is a negative number`);
+let num=5;
+num > 0
+  ? console.log(`${num} is a positive number`)
+  : console.log(`${num} is a negative number`);
 
 // ============= Window Methods =================
 
